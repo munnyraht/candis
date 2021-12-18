@@ -2,10 +2,15 @@
 ## Candis Data Engineer Test 
 
 Installation
-In the base dir, run to 
+
+In the base dir,
+
+run to install the necessary dependencies
 - pip install -r requirements.txt
+- 
 
 Running Process
+
 run the above code to create collections with schema 
 - python app/models.py
 
